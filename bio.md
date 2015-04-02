@@ -5,6 +5,7 @@ Favorite games: Mass Effect, Dragon Age, Fallout
 Favorite shows: The Walking Dead, Invader Zim
 Favorite color: Lavender
 Favorite pet: Rats
+First bachelor's degree: Psychology, minor Biological Sciences
 
 Programming Background
 - Began self-teaching Python in fall 2013
